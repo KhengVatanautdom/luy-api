@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const SECRET_REGISTRATION_CODE = 'Da31##';
+const SECRET_REGISTRATION_CODE = 'Da31##Zp!8r@WnX2$';
 
 // Register endpoint
 app.post('/register', async (req, res) => {
